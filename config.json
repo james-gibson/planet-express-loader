@@ -1,0 +1,6 @@
+{
+    "importOrder": [
+        "Account",
+        "Contact"
+    ]
+}
